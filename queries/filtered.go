@@ -1,7 +1,7 @@
 package queries
 
 import (
-	. "github.com/4FreeWifi/elasticgo/filters"
+	. "github.com/4freewifi/elasticgo/filters"
 )
 
 type filteredQuery struct {
