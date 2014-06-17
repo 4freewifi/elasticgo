@@ -1,9 +1,9 @@
-package core
+package elasticgo
 
 import (
-	. "github.com/4FreeWifi/elasticgo/aggregations"
-	. "github.com/4FreeWifi/elasticgo/queries"
 	"encoding/json"
+	. "github.com/4freewifi/elasticgo/aggregations"
+	. "github.com/4freewifi/elasticgo/queries"
 )
 
 type Search interface {
