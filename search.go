@@ -1,4 +1,4 @@
-package core
+package elasticgo
 
 import (
 	"encoding/json"
